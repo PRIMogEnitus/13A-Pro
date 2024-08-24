@@ -1313,7 +1313,7 @@
     (property "Value" "SW_Push" (at 90.17 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (at 90.17 49.53 0)
+    (property "Footprint" "Switches:TACTILE_SWITCH_SMD_6.0X3.5MM" (at 90.17 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 49.53 0)
