@@ -1,3 +1,0 @@
-Farrel
-LAPTOP-PAM78M16 
-Sunday, August 25, 2024  5:15:42 PM
